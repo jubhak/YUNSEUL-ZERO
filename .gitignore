@@ -1,5 +1,8 @@
 bin/
 obj/
 publish/
+publish-out/
 *.user
 settings.json
+oauth.json
+google_token/

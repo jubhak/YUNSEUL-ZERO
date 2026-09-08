@@ -13,10 +13,12 @@
     <IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
     <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
     <ApplicationIcon>app.ico</ApplicationIcon>
+    <AssemblyName>DataParser_v1.9</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="EPPlus" Version="7.5.2" />
+    <PackageReference Include="Google.Apis.Sheets.v4" Version="1.69.0.3694" />
   </ItemGroup>
 
 </Project>
